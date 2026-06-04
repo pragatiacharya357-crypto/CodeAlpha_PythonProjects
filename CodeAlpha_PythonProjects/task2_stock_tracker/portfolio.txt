@@ -1,0 +1,4 @@
+--- Your Portfolio Summary ---
+AAPL x 5 = 900 USD
+TSLA x 2 = 500 USD
+Total Investment: 1400 USD
